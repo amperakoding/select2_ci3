@@ -1,1 +1,1 @@
-Cara penggunaan Select2 dengan Codeigniter 3 dan insert data ke database
+Cara Insert Multiple Data dengan Select2 di Codeigniter 3 dan MySQL
